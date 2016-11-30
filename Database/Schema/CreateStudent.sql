@@ -1,3 +1,5 @@
+-- Schema file to create table
+
 CREATE TABLE STUDENTS
 (
   ID INT,
