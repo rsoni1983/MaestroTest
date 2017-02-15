@@ -1,1 +1,1 @@
-SelectStudents.sql
+Select * from Student
